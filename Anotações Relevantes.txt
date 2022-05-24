@@ -1,0 +1,11 @@
+ - Anotações
+
+ * GitBesh 
+   - Terminal extendido para otimizar a utilização do Git.
+   - git init   --> O comando git init cria um novo repositório do Git.
+   - git status --> O comando git status exibe as condições do diretório de trabalho e da área de staging.
+   - git add . --> O comando git add adiciona uma alteração no diretório ativo à área de staging. 
+   - git commit -m "Mensagem do commit" -->  O comando git commit é uma das funções principais do Git.
+   - git push origin [nome da branch] --> O comando git push é usado para enviar o conteúdo do repositório local para um repositório remoto.
+
+ 
